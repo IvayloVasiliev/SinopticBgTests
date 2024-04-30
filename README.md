@@ -1,4 +1,4 @@
-Siple scelet framework for testing purposses with C# and Selenium with one test included:
+Siple framework for testing purposses with C# and Selenium with one test included:
 1. Go to https://sinoptik.bg 
 2. Search your place of birth
 3. Verify the correct forecast is loaded
